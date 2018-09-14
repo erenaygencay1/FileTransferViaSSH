@@ -1,4 +1,7 @@
-	# -*- coding: utf-8 -*-
+#File Transfer Via SSH	
+# Author: Erenay Gencay
+
+
 import subprocess
 import sys
 import getpass
