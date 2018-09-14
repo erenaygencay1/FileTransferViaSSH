@@ -1,5 +1,6 @@
 # FileTransferViaSSH
 USAGE
+
 python fileTransfer.py targetIP Username Password TargetOS Path
 
 TargetOS : 
