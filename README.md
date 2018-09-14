@@ -1,16 +1,6 @@
-# File-Transfer-via-ssh
-
-***This script is the easy way of the file transfer via ssh.
-
-
-
-
-
-
-
-
-[**] USAGE [**]
->>> python fileTransfer.py <targetIP> <Username> <Password> <TargetOS> <Path>
+# FileTransferViaSSH
+USAGE
+python fileTransfer.py <targetIP> <Username> <Password> <TargetOS> <Path>
 
 TargetOS : 
  	 if target os is windows : w 
@@ -24,4 +14,3 @@ Password :
 
 Path : 
  	 it is the path of the file which want you send via ssh.
-
